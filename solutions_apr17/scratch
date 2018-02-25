@@ -1,0 +1,9 @@
+w=2 h=1
+ER EE
+w=2 h=2
+EE ER EE ER RE
+ER ER EE EE EE
+w=2 h=3
+1:   ER         EE
+2: EE ER     EE RE ER
+   3  2      3  2  2

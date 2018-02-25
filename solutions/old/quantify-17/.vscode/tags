@@ -1,0 +1,22 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+exotic_price2	../x_dist.py	/^def exotic_price2(x0, k, t, vol, b):$/;"	kind:function	line:30
+exp	../x_dist.py	/^from math import exp, sqrt$/;"	kind:namespace	line:1
+lognorm	../x_dist.py	/^from scipy.stats import lognorm, norm$/;"	kind:namespace	line:5
+main	../x_dist.py	/^def main():$/;"	kind:function	line:71
+maxf	../x_dist.py	/^    def maxf(x):$/;"	kind:function	line:11
+norm	../x_dist.py	/^from scipy.stats import lognorm, norm$/;"	kind:namespace	line:5
+np	../x_dist.py	/^import numpy as np$/;"	kind:namespace	line:3
+randn	../x_dist.py	/^from numpy.random import randn$/;"	kind:namespace	line:2
+search_inst_vol	../x_dist.py	/^def search_inst_vol(x0, k, t, c, b=None):$/;"	kind:function	line:62
+search_vol	../x_dist.py	/^def search_vol(x0, k, t, price, b=None):$/;"	kind:function	line:43
+simple_price	../x_dist.py	/^def simple_price(x0, k, t, vol):$/;"	kind:function	line:10
+simple_price2	../x_dist.py	/^def simple_price2(x0, k, t, vol):$/;"	kind:function	line:19
+sqrt	../x_dist.py	/^from math import exp, sqrt$/;"	kind:namespace	line:1
+stdin	../x_dist.py	/^from sys import stdin$/;"	kind:namespace	line:7
+time	../x_dist.py	/^from time import time$/;"	kind:namespace	line:6
+x_dist.py	../x_dist.py	1;"	kind:file	line:1

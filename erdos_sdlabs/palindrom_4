@@ -1,0 +1,4 @@
+binary : b0b1b2b3 ...... b3b2b1b0
+hex : (b0b1b2b3)16 = (b3b2b1b0)16
+b0=b3,b1=b2, or
+oct: b0b1b2=
