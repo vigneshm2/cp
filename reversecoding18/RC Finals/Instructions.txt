@@ -1,0 +1,10 @@
+1. There are 6 output files named 1 - 6.
+2. Run the output files and follow the instructions for input and output type for each.
+3. For the questions 1-5 you must find what the code does and replicate it with C programs.
+4. Place all the your codes in a folder titled with your roll numbers and names.
+5. Questions 1-4 are worth 1 point.
+6. Question 5 is worth 1.25 points
+7. 6th Question is a bonus question, worth 0.75 points.
+8. C Library Reference Manual is provided for your reference.
+9. Ordinary people think merely of spending time. Great people think of using it.
+10. Good Luck, Have Fun.

@@ -1,7 +1,5 @@
-all: 
-
 %: %.cpp
-	g++ -D LOCAL_TEST -std=c++11 -g -Wall $< -o $@
+	g++ -D LOCAL_TEST -std=c++11 -Wall $< -o $@
 
 %: %.c
 	gcc $< -o $@

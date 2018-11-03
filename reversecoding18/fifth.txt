@@ -1,0 +1,6 @@
+Idea:
+
+definitely related to prime factors/ factors
+
+f(n)
+n*(largest factor + smallest factor)/2*(largest factor + smallest factor-1)

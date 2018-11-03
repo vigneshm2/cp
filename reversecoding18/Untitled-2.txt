@@ -1,0 +1,26 @@
+if you can read this, you have a basic knowledge of frequency analysis and or
+are Xust good at guessing. 
+anyways here's some text to fool with you.
+in graph
+theory, kuratowski's theorem is a mathematical forbidden graph characteriSation of planar graphs, named after kaSimierS kuratowski.
+ it states that a finite
+graph is planar if and only if it does not contain a subgraph that is a subdivision of the complete graph on five vertices or of the complete bipartite graph on six vertices,
+ three of which connect to each of the other three, also known as the utility graph.misra and gries describe a polynomial time algorithm for coloring the edges of any graph with delta plus one colors,
+ where delta is
+the maximum degree of the graph. that is, the algorithm uses the optimal number of colors for graphs of class two, 
+and uses at most one more color than necessary for all graphs. 
+their algorithm follows the same strategy as viSing's original proof of his theorem: it starts with an uncolored graph, 
+and then repeatedly finds a way of recoloring the graph in order to increase the number of colored edges by one.
+more specifically, 
+suppose that uv is an uncolored edge in a partially colored graph. the algorithm of misra and gries may be interpreted as constructing a directed pseudoforest p 
+(a graph in which each vertex has
+at most one outgoing edge) 
+on the neighbors of u: for each neighbor p of u, the algorithm finds a color c that is not used by any of the edges incident to p,
+ finds the vertex q (if it exists) for which edge uq has color c, and adds pq as an edge to p. 
+ there are two cases:if the pseudoforest p constructed in this way contains a path from v to a vertex w that has no outgoing edges in p, 
+ then there is a color c that is available both at u and w. recoloring edge uw with color c allows the remaining edge colors to be shifted one step along this
+path: for each vertex p in the path, edge up takes the color that was previously used by the successor of p in the path. this leads to a new coloring that includes edge uv.
+if, on the other hand, the path starting from v in the pseudoforest p leads to a cycle, let w be the neighbor of u at which the path Xoins the cycle, let c be the color of edge uw, 
+and let d be a color that is not used by any of the edges at vertex u. then swapping colors c and d on a kempe chain either breaks the cycle or the edge on which the path Xoins the cycle,
+ leading to the previous case.in an unpublished technical report, gabow et al. claimed a faster time bound for the same problem of coloring with delta plus one colors.
+ for this question all you need to do is to make a file that prints kuratowski.

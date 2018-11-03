@@ -1,0 +1,6 @@
+Idea:
+f(a,b):
+assume a<b, swap otherwise
+a*(b + b or a)
+
+This "or" operation isnt exactly bitwise or, but seems related
